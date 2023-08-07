@@ -1,0 +1,37 @@
+.Offers {
+    padding: 60px 60px;
+    text-align: center;
+}
+
+.Offers img {
+    margin: 0px auto;
+    margin-bottom: 12px;
+    width: 60px !important;
+    height: 60px !important;
+}
+
+.Offers h1 {
+    font-size: 43px;
+    color: white;
+    font-weight: bold;
+}
+
+.Offers h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 32px;
+}
+
+.Offers p {
+    font-size: 19px;
+}
+
+.Offers button {
+    padding: 10px 23px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    margin-top: 23px;
+    background-color: white;
+    font-weight: bold;
+    color: #007aff;
+}

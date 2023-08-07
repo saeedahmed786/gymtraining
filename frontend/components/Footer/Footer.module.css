@@ -1,0 +1,36 @@
+.footer {
+    box-shadow: 2px 2px 15px 15px #f0f1f2;
+    background-color: rgba(0, 86, 149, 1);
+}
+
+.footer a {
+    color: white;
+    font-weight: 500;
+    margin-bottom: 10px;
+    display: block !important;
+}
+
+.footer h3 {
+    font-size: 23px;
+    color: white;
+    margin-bottom: 19px;
+}
+
+.footer .footerLast {
+    display: flex;
+    justify-content: space-between;
+    align-items: center !important;
+    flex-wrap: wrap;
+    padding: 8px 32px;
+    border-top: 1px solid #e4e5e7;
+}
+
+.footer .footerLast a {
+    display: inline !important;
+    margin-bottom: 0px;
+}
+
+.footer .footerLast .icons {
+    display: flex;
+    gap: 23px;
+}

@@ -1,0 +1,30 @@
+.CustomPlans {
+    background-color: #007fdc;
+    padding: 60px 60px;
+}
+
+.CustomPlans h1 {
+    font-size: 43px;
+    color: white;
+    font-weight: bold;
+}
+
+.CustomPlans h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.CustomPlans p {
+    font-size: 19px;
+    color: white;
+}
+
+.CustomPlans button {
+    padding: 10px 23px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    margin-top: 23px;
+    background-color: white;
+    font-weight: bold;
+    color: #007aff;
+}

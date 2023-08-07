@@ -1,0 +1,36 @@
+.PlanDetails h2.title {
+    font-size: 32px !important;
+    margin-top: 28px;
+    margin-bottom: 45px;
+}
+
+.PlanDetails .desc {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 23px 0px;
+    margin-bottom: 43px;
+}
+
+.PlanDetails button {
+    width: 100%;
+    padding: 8px;
+    background-color: rgb(235, 22, 57);
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.PlanDetails ul {
+    list-style: circle;
+    margin: 32px 15px;
+}
+
+.PlanDetails ul li {
+    margin-bottom: 10px;
+}
+
+.PlanDetails hr {
+    opacity: 1;
+    margin: 23px 0px;
+}
